@@ -49,7 +49,7 @@ QT += xml
 QMAKE_EXTRA_TARGETS += langtarget
 PRE_TARGETDEPS += language.h
 langtarget.target = language.h
-langtarget.commands = python getTaskText.py
+langtarget.commands = python $${PWD}/getTaskText.py
 
 CONFIG(release, debug|release) {
 	TARGET = 4-rename
@@ -63,4 +63,8 @@ CONFIG(debug, debug|release) {
 	DESTDIR = ../../../bin/wip_debug/plugins
 	OBJECTS_DIR = ../tmp/rename/debug
 	MOC_DIR = ../tmp/rename/debug
+}
+unix {
+    QMAKE_POST_LINK += $${QMAKE_MKDIR} $${DESTDIR}/config/rename/ $$escape_expand(\n\t)
+    QMAKE_POST_LINK += $${QMAKE_COPY} $${PWD}/config/* $${DESTDIR}/config/rename/
 }
