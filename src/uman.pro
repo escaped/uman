@@ -235,18 +235,27 @@ unix {
     LIBS += -L"/usr/lib" \
         -ltag
 }
+mac {
+    INCLUDEPATH += /usr/local/include/taglib/ \
+        /usr/local/include/
+    LIBS += -L"/usr/local/lib" \
+        -ltag \
+        -lbass
+    CONFIG -= app_bundle
+}
 QMAKE_EXTRA_TARGETS += revtarget
 PRE_TARGETDEPS += version.h
 revtarget.target = version.h
-revtarget.commands = @echo \
-    "const char *revision = \"r$(shell svnversion .)\"; \
-    const \
-    char \
-    *date_time \
-    = \
-    \"$(shell date /T)$(shell time /T)\";" \
-    > \
-    $$revtarget.target
-revtarget.depends = $$SOURCES \
-    $$HEADERS \
-    $$FORMS
+win32 {
+    revtarget.commands = @echo \
+        "const char *revision = \"r$(shell svnversion .)\"; \
+        const char *date_time = \
+        \"$(shell date /T)$(shell time /T)\";" \
+        > $$revtarget.target
+}
+unix {
+    revtarget.commands = @echo \
+        "const char *revision = \\\"rev`git rev-parse --short HEAD`\\\"\\; \
+        const char *date_time = \\\"`date`\\\"\\;" \
+        > $${PWD}/$$revtarget.target
+}
