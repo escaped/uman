@@ -1,0 +1,179 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svnroot/uman/!svn/ver/416/uman/src/plugins/shared
+END
+QUSmartSetting.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/uman/!svn/ver/416/uman/src/plugins/shared/QUSmartSetting.h
+END
+QUSmartCheckBox.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/uman/!svn/ver/371/uman/src/plugins/shared/QUSmartCheckBox.cpp
+END
+QUSmartCheckBox.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/uman/!svn/ver/350/uman/src/plugins/shared/QUSmartCheckBox.h
+END
+QUTaskTextDelegate.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/uman/!svn/ver/288/uman/src/plugins/shared/QUTaskTextDelegate.cpp
+END
+QUScriptableTaskFactory.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/uman/!svn/ver/355/uman/src/plugins/shared/QUScriptableTaskFactory.cpp
+END
+QUSmartInputCheck.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/uman/!svn/ver/371/uman/src/plugins/shared/QUSmartInputCheck.cpp
+END
+QUSimpleTaskFactory.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/uman/!svn/ver/355/uman/src/plugins/shared/QUSimpleTaskFactory.cpp
+END
+QUTaskConditionDelegate.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/uman/!svn/ver/288/uman/src/plugins/shared/QUTaskConditionDelegate.cpp
+END
+QUTaskDataTable.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/uman/!svn/ver/293/uman/src/plugins/shared/QUTaskDataTable.cpp
+END
+QUTaskTextDelegate.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/uman/!svn/ver/288/uman/src/plugins/shared/QUTaskTextDelegate.h
+END
+QUScriptableTaskFactory.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/uman/!svn/ver/355/uman/src/plugins/shared/QUScriptableTaskFactory.h
+END
+QUSmartInputCheck.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/uman/!svn/ver/348/uman/src/plugins/shared/QUSmartInputCheck.h
+END
+QUSimpleTaskFactory.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/uman/!svn/ver/355/uman/src/plugins/shared/QUSimpleTaskFactory.h
+END
+QUTaskConditionDelegate.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/uman/!svn/ver/288/uman/src/plugins/shared/QUTaskConditionDelegate.h
+END
+QUTaskDataTable.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/uman/!svn/ver/288/uman/src/plugins/shared/QUTaskDataTable.h
+END
+QUSmartInputField.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/uman/!svn/ver/371/uman/src/plugins/shared/QUSmartInputField.cpp
+END
+QUScriptableTask.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/uman/!svn/ver/323/uman/src/plugins/shared/QUScriptableTask.cpp
+END
+QUSimpleTask.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/uman/!svn/ver/285/uman/src/plugins/shared/QUSimpleTask.cpp
+END
+QUTaskDialog.ui
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/uman/!svn/ver/288/uman/src/plugins/shared/QUTaskDialog.ui
+END
+QUTaskSourceDelegate.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/uman/!svn/ver/288/uman/src/plugins/shared/QUTaskSourceDelegate.cpp
+END
+QUSmartInputField.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/uman/!svn/ver/350/uman/src/plugins/shared/QUSmartInputField.h
+END
+QUScriptableTask.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/uman/!svn/ver/357/uman/src/plugins/shared/QUScriptableTask.h
+END
+QUSimpleTask.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/uman/!svn/ver/416/uman/src/plugins/shared/QUSimpleTask.h
+END
+QUMultilingualTaskFactory.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/uman/!svn/ver/355/uman/src/plugins/shared/QUMultilingualTaskFactory.cpp
+END
+QUTaskDialog.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/uman/!svn/ver/357/uman/src/plugins/shared/QUTaskDialog.cpp
+END
+QUTaskSourceDelegate.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/uman/!svn/ver/288/uman/src/plugins/shared/QUTaskSourceDelegate.h
+END
+QUSmartSetting.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/uman/!svn/ver/416/uman/src/plugins/shared/QUSmartSetting.cpp
+END
+QUMultilingualTaskFactory.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/uman/!svn/ver/405/uman/src/plugins/shared/QUMultilingualTaskFactory.h
+END
+QUTaskDialog.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/uman/!svn/ver/357/uman/src/plugins/shared/QUTaskDialog.h
+END

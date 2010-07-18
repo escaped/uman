@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/uman/!svn/ver/429/uman/src/playlistdetails
+END
+QUPlaylistDBModel.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/uman/!svn/ver/429/uman/src/playlistdetails/QUPlaylistDBModel.cpp
+END
+QUPlaylistArea.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/uman/!svn/ver/429/uman/src/playlistdetails/QUPlaylistArea.cpp
+END
+QUPlaylistDBModel.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/uman/!svn/ver/429/uman/src/playlistdetails/QUPlaylistDBModel.h
+END
+QUPlaylistArea.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/uman/!svn/ver/429/uman/src/playlistdetails/QUPlaylistArea.h
+END
+QUPlayListItem.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/uman/!svn/ver/426/uman/src/playlistdetails/QUPlayListItem.cpp
+END
+QUPlayList.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/uman/!svn/ver/427/uman/src/playlistdetails/QUPlayList.cpp
+END
+QUPlaylistModel.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/uman/!svn/ver/429/uman/src/playlistdetails/QUPlaylistModel.cpp
+END
+QUPlayListItem.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/uman/!svn/ver/426/uman/src/playlistdetails/QUPlayListItem.h
+END
+QUPlaylistArea.ui
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/uman/!svn/ver/429/uman/src/playlistdetails/QUPlaylistArea.ui
+END
+QUPlayList.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/uman/!svn/ver/427/uman/src/playlistdetails/QUPlayList.h
+END
+QUPlaylistModel.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/uman/!svn/ver/429/uman/src/playlistdetails/QUPlaylistModel.h
+END

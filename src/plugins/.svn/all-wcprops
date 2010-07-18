@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svnroot/uman/!svn/ver/430/uman/src/plugins
+END
+QUPluginManager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/uman/!svn/ver/410/uman/src/plugins/QUPluginManager.cpp
+END
+QUPluginDelegate.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/uman/!svn/ver/405/uman/src/plugins/QUPluginDelegate.cpp
+END
+QUTaskFactoryProxy.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/uman/!svn/ver/403/uman/src/plugins/QUTaskFactoryProxy.cpp
+END
+QUPluginManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/uman/!svn/ver/410/uman/src/plugins/QUPluginManager.h
+END
+QUPluginDelegate.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/uman/!svn/ver/405/uman/src/plugins/QUPluginDelegate.h
+END
+QUTaskFactoryProxy.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/uman/!svn/ver/403/uman/src/plugins/QUTaskFactoryProxy.h
+END
+QURemoteImageSourcePlugin.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/uman/!svn/ver/416/uman/src/plugins/QURemoteImageSourcePlugin.h
+END
+QUPlugin.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/uman/!svn/ver/407/uman/src/plugins/QUPlugin.h
+END
+QUPluginDialog.ui
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/uman/!svn/ver/405/uman/src/plugins/QUPluginDialog.ui
+END
+QUSmartSettingInterface.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/uman/!svn/ver/416/uman/src/plugins/QUSmartSettingInterface.h
+END
+QUSimpleCommunicator.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/uman/!svn/ver/402/uman/src/plugins/QUSimpleCommunicator.cpp
+END
+QUPluginDialog.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/uman/!svn/ver/405/uman/src/plugins/QUPluginDialog.cpp
+END
+QUPluginModel.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/uman/!svn/ver/416/uman/src/plugins/QUPluginModel.cpp
+END
+QUSimpleCommunicator.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/uman/!svn/ver/402/uman/src/plugins/QUSimpleCommunicator.h
+END
+QUPluginDialog.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/uman/!svn/ver/405/uman/src/plugins/QUPluginDialog.h
+END
+QUPluginModel.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/uman/!svn/ver/405/uman/src/plugins/QUPluginModel.h
+END
+QUCommunicatorInterface.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/uman/!svn/ver/402/uman/src/plugins/QUCommunicatorInterface.h
+END
+QUTaskPlugin.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/uman/!svn/ver/416/uman/src/plugins/QUTaskPlugin.h
+END

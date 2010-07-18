@@ -1,0 +1,28 @@
+K 10
+svn:ignore
+V 168
+Makefile*
+ui_*.h
+*.exe
+*.dll
+Thumbs.db
+moc_*.cpp
+qrc_*.cpp
+release
+.*project
+debug
+lib
+include
+bin
+html
+object_script*
+version.h
+tmp
+sc
+qtc*
+ui
+*.user
+taglib-api
+tests
+
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svnroot/uman/!svn/ver/416/uman/src/tasks
+END
+QUTaskList.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/uman/!svn/ver/403/uman/src/tasks/QUTaskList.cpp
+END
+QUTaskItem.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/uman/!svn/ver/416/uman/src/tasks/QUTaskItem.cpp
+END
+QUTaskList.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/uman/!svn/ver/403/uman/src/tasks/QUTaskList.h
+END
+QUTaskItem.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/uman/!svn/ver/342/uman/src/tasks/QUTaskItem.h
+END

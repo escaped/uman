@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svnroot/uman/!svn/ver/430/uman/src/song
+END
+QUSongDatabase.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/uman/!svn/ver/397/uman/src/song/QUSongDatabase.cpp
+END
+QUSongFile.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svnroot/uman/!svn/ver/389/uman/src/song/QUSongFile.h
+END
+QUSongInterface.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/uman/!svn/ver/381/uman/src/song/QUSongInterface.h
+END
+QUSongLine.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/uman/!svn/ver/357/uman/src/song/QUSongLine.cpp
+END
+QUSongDatabase.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/uman/!svn/ver/397/uman/src/song/QUSongDatabase.h
+END
+QUSongLine.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svnroot/uman/!svn/ver/319/uman/src/song/QUSongLine.h
+END
+QUSongFile.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/uman/!svn/ver/430/uman/src/song/QUSongFile.cpp
+END

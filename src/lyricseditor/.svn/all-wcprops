@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svnroot/uman/!svn/ver/385/uman/src/lyricseditor
+END
+QUSongLineDelegate.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/uman/!svn/ver/319/uman/src/lyricseditor/QUSongLineDelegate.cpp
+END
+QULyricsEdit.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/uman/!svn/ver/385/uman/src/lyricseditor/QULyricsEdit.cpp
+END
+QULyricsEditorDialog.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/uman/!svn/ver/385/uman/src/lyricseditor/QULyricsEditorDialog.cpp
+END
+QUSongLineDelegate.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/uman/!svn/ver/319/uman/src/lyricseditor/QUSongLineDelegate.h
+END
+QULyricsEdit.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/uman/!svn/ver/385/uman/src/lyricseditor/QULyricsEdit.h
+END
+QULyricsEditorDialog.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/uman/!svn/ver/379/uman/src/lyricseditor/QULyricsEditorDialog.h
+END
+QUSyllableDelegate.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/uman/!svn/ver/319/uman/src/lyricseditor/QUSyllableDelegate.cpp
+END
+QULyricsEditorDialog.ui
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/uman/!svn/ver/326/uman/src/lyricseditor/QULyricsEditorDialog.ui
+END
+QUSyllableDelegate.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/uman/!svn/ver/319/uman/src/lyricseditor/QUSyllableDelegate.h
+END

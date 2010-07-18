@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svnroot/uman/!svn/ver/430/uman/src/plugins/amazon
+END
+QUAmazonImageSource.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/uman/!svn/ver/410/uman/src/plugins/amazon/QUAmazonImageSource.cpp
+END
+QUAmazonResponse.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/uman/!svn/ver/413/uman/src/plugins/amazon/QUAmazonResponse.h
+END
+amazon.de.ts
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/uman/!svn/ver/428/uman/src/plugins/amazon/amazon.de.ts
+END
+amazon.pl.ts
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/uman/!svn/ver/428/uman/src/plugins/amazon/amazon.pl.ts
+END
+amazon.pro
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/uman/!svn/ver/430/uman/src/plugins/amazon/amazon.pro
+END
+QUAmazonImageSource.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/uman/!svn/ver/416/uman/src/plugins/amazon/QUAmazonImageSource.h
+END
+QUAmazonImageCollector.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/uman/!svn/ver/423/uman/src/plugins/amazon/QUAmazonImageCollector.cpp
+END
+QUAmazonRequestUrl.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/uman/!svn/ver/423/uman/src/plugins/amazon/QUAmazonRequestUrl.cpp
+END
+QUAmazonImageCollector.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/uman/!svn/ver/411/uman/src/plugins/amazon/QUAmazonImageCollector.h
+END
+QUAmazonResponse.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/uman/!svn/ver/413/uman/src/plugins/amazon/QUAmazonResponse.cpp
+END
+QUAmazonRequestUrl.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/uman/!svn/ver/411/uman/src/plugins/amazon/QUAmazonRequestUrl.h
+END
