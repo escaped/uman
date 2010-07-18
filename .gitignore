@@ -1,0 +1,17 @@
+src/version.h
+*-build-desktop
+
+.DS_Store
+*.svn*
+bin
+*.pro.user
+*~
+*.o
+
+*.log
+
+# Generated MOC, resource and UI files
+moc_*.cpp
+qrc_*.cpp
+ui_*.h
+
