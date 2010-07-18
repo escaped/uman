@@ -57,10 +57,15 @@ unix {
     LIBS += -L"/usr/lib" \
         -ltag
 }
+mac {
+    INCLUDEPATH += /usr/local/include/taglib/
+    LIBS += -L"/usr/local/lib" \
+        -ltag \
+}
 QMAKE_EXTRA_TARGETS += langtarget
 PRE_TARGETDEPS += language.h
 langtarget.target = language.h
-langtarget.commands = python getTaskText.py
+langtarget.commands = python $${PWD}/getTaskText.py
 
 CONFIG(release, debug|release) {
 	TARGET = 3-audiotag
