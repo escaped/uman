@@ -80,3 +80,7 @@ CONFIG(debug, debug|release) {
 	OBJECTS_DIR = ../tmp/audiotag/debug
 	MOC_DIR = ../tmp/audiotag/debug
 }
+unix {
+    QMAKE_POST_LINK += $${QMAKE_MKDIR} $${DESTDIR}/config/audiotag/ $$escape_expand(\n\t)
+    QMAKE_POST_LINK += $${QMAKE_COPY} $${PWD}/config/* $${DESTDIR}/config/audiotag/
+}
