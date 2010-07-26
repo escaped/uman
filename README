@@ -3,6 +3,18 @@ UltraStar Manager
 
 With this song management application you are able to keep an eye on your UltraStar collection. Quickly find songs with missing covers, backgrounds or videos.
 
+How to compile
+---------------
+You need to install Homebrew (http://github.com/mxcl/homebrew/) on OSX followed by these commands:
+brew install qt
+brew install taglib
+cd /usr/local/
+git add remote escaped git://github.com/escaped/homebrew.git
+git pull escaped master
+brew install libbass
+
+Now you can compile using QT Creator.
+
 About this repo
 ---------------
 This is just a git-Repo for some Bugfixes, Mac-Compatibility and perhaps new Features.
